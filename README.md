@@ -17,14 +17,14 @@
 ---
 
 <h2 align="center" style="color:#ff69b4;">💖 Tech Tools I Love 💖</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="java" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40" />
+<p align="center"> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
 ---
