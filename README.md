@@ -57,5 +57,4 @@
 
 ---
 
-![snake gif](https://github.com/nsanur/nsanur/blob/output/snake.svg)
 
