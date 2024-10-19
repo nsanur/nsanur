@@ -45,8 +45,6 @@
 
 ---
 
-![snake gif](https://github.com/nsanur/nsanur/blob/output/github-contribution-grid-snake.svg)
-
 
 <h2 align="center" style="color:#ff69b4;">🌸 Inspiring Women in Tech 🌸</h2>
 <p align="center"> 
@@ -56,3 +54,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2528497/129471131-b0a34b56-98da-4ab0-b25b-e007dccf62d7.gif" width="400" alt="coding girl" />
 </p>
+
+---
+
+![snake gif](https://github.com/nsanur/nsanur/blob/output/github-contribution-grid-snake.svg)
