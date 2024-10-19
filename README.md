@@ -45,6 +45,9 @@
 
 ---
 
+![snake gif](https://github.com/nsanur/nsanur/blob/output/github-contribution-grid-snake.svg)
+
+
 <h2 align="center" style="color:#ff69b4;">🌸 Inspiring Women in Tech 🌸</h2>
 <p align="center"> 
   Empowering women in technology is my mission. Together, we can change the world, one line of code at a time! 💻✨  
